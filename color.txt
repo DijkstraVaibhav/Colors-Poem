@@ -4,6 +4,7 @@ Purple
 pink 
 orange
 Blue
+Black
 Red
 
 These are the colors 
